@@ -1,0 +1,16 @@
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.exe
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.deps.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.dev.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.AssemblyReference.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfoInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfo.cs
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.CoreCompileInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.exe
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.deps.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.runtimeconfig.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.runtimeconfig.dev.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\ref\PINinfiniteLoop.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.csproj.AssemblyReference.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.AssemblyInfoInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.AssemblyInfo.cs
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.csproj.CoreCompileInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\ref\PINinfiniteLoop.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.genruntimeconfig.cache

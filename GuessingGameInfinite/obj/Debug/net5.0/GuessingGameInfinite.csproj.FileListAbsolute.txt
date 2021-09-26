@@ -1,0 +1,16 @@
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.csproj.AssemblyReference.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.AssemblyInfoInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.AssemblyInfo.cs
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.csproj.CoreCompileInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.exe
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.deps.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.runtimeconfig.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.runtimeconfig.dev.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\ref\GuessingGameInfinite.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\bin\Debug\net5.0\GuessingGameInfinite.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\ref\GuessingGameInfinite.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameInfinite\obj\Debug\net5.0\GuessingGameInfinite.genruntimeconfig.cache

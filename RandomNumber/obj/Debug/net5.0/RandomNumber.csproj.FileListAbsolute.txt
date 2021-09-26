@@ -1,0 +1,16 @@
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.exe
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.deps.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.runtimeconfig.dev.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\ref\RandomNumber.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\bin\Debug\net5.0\RandomNumber.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.AssemblyReference.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfoInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.AssemblyInfo.cs
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.csproj.CoreCompileInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\ref\RandomNumber.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\RandomNumber\obj\Debug\net5.0\RandomNumber.genruntimeconfig.cache

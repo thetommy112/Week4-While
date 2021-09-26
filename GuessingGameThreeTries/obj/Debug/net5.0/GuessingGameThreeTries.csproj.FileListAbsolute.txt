@@ -1,0 +1,15 @@
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+D:\Koolitööd\Programmeerimise alused\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache
